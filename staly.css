@@ -87,3 +87,14 @@ footer{
 
 
 }
+@media (max-width: 640px){
+
+    nav{
+
+        width: 100vw;        
+    }
+    .mapa{
+
+        display: none;
+
+    }
